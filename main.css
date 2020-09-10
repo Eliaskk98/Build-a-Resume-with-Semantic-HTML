@@ -1,0 +1,22 @@
+h1 {
+	border: 5px solid pink;
+	margin-left: 500px;
+	margin-right: 609px;
+}
+
+h2 {
+	color: yellow;
+	background-color: black;
+}
+
+ul {
+	background-color: white;
+}
+
+li {
+	color: black;
+}
+
+img {
+	width: 150px;
+}
